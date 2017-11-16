@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concrruent.iml" filepath="$PROJECT_DIR$/concrruent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/future-lib/future-lib.iml" filepath="$PROJECT_DIR$/future-lib/future-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalib/javalib.iml" filepath="$PROJECT_DIR$/javalib/javalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfuture/myfuture.iml" filepath="$PROJECT_DIR$/myfuture/myfuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work-lib/work-lib.iml" filepath="$PROJECT_DIR$/work-lib/work-lib.iml" />
+    </modules>
+  </component>
+</project>

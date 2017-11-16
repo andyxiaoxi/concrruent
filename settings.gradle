@@ -1,0 +1,1 @@
+include ':app', ':javalib', ':work-lib', ':future-lib', ':myfuture'
